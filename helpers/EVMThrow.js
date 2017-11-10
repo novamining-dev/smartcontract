@@ -1,0 +1,1 @@
+exports.eVMThrow='invalid opcode'
